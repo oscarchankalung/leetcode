@@ -11,6 +11,7 @@
 - Use `x, y = y, x` to swap variables
 - Use `nums.reverse()` to reverse array
 - Use `string[::-1]` to reverse string
+- Use `nums.sort()` or `sorted(nums)` to sort iterable
 
 ## Basic Operations and Functions
 
