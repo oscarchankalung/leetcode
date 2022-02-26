@@ -1,0 +1,48 @@
+# Collection: Dynamic Programming I
+
+- [x] 509 Fibonacci Number
+- [x] 1137 N-th Tribonacci Number
+- [x] 070 Climbing Stairs
+- [x] 746 Min Cost Climbing Stairs
+- [x] 198 House Robber
+- [x] 213 House Robber II
+- [x] 740 Delete and Earn
+- [x] 055 Jump Game
+- [x] 045 Jump Game II
+- [x] 053 Maximum Subarray
+- [x] 918 Maximum Sum Circular Subarray
+- [x] 152 Maximum Product Subarray
+- [x] 1567 Maximum Length of Subarray With Positive Product
+- [x] 1014 Best Sightseeing Pair
+- [x] 121 Best Time to Buy and Sell Stock
+- [x] 122 Best Time to Buy and Sell Stock II
+- [x] 309 Best Time to Buy and Sell Stock with Cooldown
+- [x] 714 Best Time to Buy and Sell Stock with Transaction Fee
+- [ ] 139 Word Break
+- [ ] 042 Trapping Rain Water
+- [ ] 413 Arithmetic Slices
+- [ ] 091 Decode Ways
+- [ ] 264 Ugly Number II
+- [ ] 096 Unique Binary Search Trees
+- [ ] 118 Pascal's Triangle
+- [ ] 119 Pascal's Triangle II
+- [ ] 931 Minimum Falling Path Sum
+- [ ] 120 Triangle
+- [ ] 1314 Matrix Block Sum
+- [ ] 304 Range Sum Query 2D - Immutable
+- [ ] 062 Unique Paths
+- [ ] 063 Unique Paths II
+- [ ] 064 Minimum Path Sum
+- [ ] 221 Maximal Square
+- [ ] 005 Longest Palindromic Substring
+- [ ] 516 Longest Palindromic Subsequence
+- [ ] 300 Longest Increasing Subsequence
+- [ ] 376 Wiggle Subsequence
+- [ ] 392 Is Subsequence
+- [ ] 1143 Longest Common Subsequence
+- [ ] 072 Edit Distance
+- [ ] 322 Coin Change
+- [ ] 518 Coin Change 2
+- [ ] 377 Combination Sum IV
+- [ ] 343 Integer Break
+- [ ] 279 Perfect Squares
